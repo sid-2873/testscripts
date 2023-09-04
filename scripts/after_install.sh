@@ -1,2 +1,2 @@
 aws --version 
-get secret-id "main-env"
+get secret-id "test-env"
